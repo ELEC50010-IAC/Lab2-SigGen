@@ -5,7 +5,7 @@
 ---
 ## Lab 2 - Signal Generation and Capture
 
-**_Peter Cheung, V1.1 - 20 Oct 2025_**
+**_Peter Cheung, V1.2 - 21 Oct 2026_**
 
 ---
 
